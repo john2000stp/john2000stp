@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**john2000stp/john2000stp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on 365 Days of coding
 - 🌱 I’m currently learning ...
 -- Web Programming (HTML/CSS/JavaScript)
@@ -19,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
